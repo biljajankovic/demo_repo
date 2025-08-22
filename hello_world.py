@@ -9,3 +9,4 @@ c=a+b
 #brenc a je mrdzovan na main
 #ja o tome ovde nemam pojma
 #moram da se pomerim na novi tzv tajmlajn
+#???
