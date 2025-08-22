@@ -4,4 +4,4 @@ print("Hello world!")
 a=1
 b=2
 c=a+b
-#promene na brencu a koje dodajem
+#promene na brencu b koje dodajem
